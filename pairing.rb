@@ -1,4 +1,4 @@
-class Pairing
+class Mobbing
   def initialize(team:)
     @team = team
     @people_who_have_driven = []
